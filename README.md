@@ -1,21 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diego Langeveldt
 ========================================================================================================================================
 
-Web Developer as-well as Designer
----------------------------------
+I am a Full-Stack Web Developer and Software Developer
+------------------------------------------------------
+
+I am a Full-Stack Web Developer and Software Developer, having previously worked with the MERN stack (MongoDB, Express, React, Node.js) and currently enhancing my Java skills.I specialise in creating responsive user interfaces, implementing robust backend solutions, utilising APIs, and enhancing application performance through scalable design. I have experience in pair programming and collaborating with others to solve problems, whether my own or my teammates', fostering a supportive development environment.
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [My Portfolio](http://digz1611.github.io/My-Portfolio/)
-* ✉️  You can contact me at [diego.langeveldt@gmail.com](mailto:diego.langeveldt@gmail.com)
-* 🧠  I'm learning the essentials to front-end with the hopes of becoming a full-stack developer in the future
-* 🤝  I'm open to collaborating on various types of websites, including those for emerging businesses or small-scale projects aimed at improving quality of life
-* ⚡  I really like cars { like really like { I mean really like { i mean a lot } } }
+* ✉️  You can contact me at [diego.langeveldt@gmail.com](mailto:diego.langeveldt@gmail.com )
+* 🧠  I'm learning I have learned the MERN stack and am now focusing on expanding Java, primarily with the Spring Framework, with plans to learn Python in the future.
+* 🤝  I'm open to collaborating on I'm open to collaborating on various software development projects that promote innovation.
+* ⚡  I really like cars and I'm a new fan of motorbikes
 
 ### Skills
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
 
